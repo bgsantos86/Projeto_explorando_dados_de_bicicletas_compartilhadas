@@ -5,6 +5,7 @@ Neste projeto, utilizei o Python para explorar dados relacionados aos sistemas d
 
 ### IMPORTANTE
 Para rodar este código é necessário que o seguinte arquivo esteja em seu computador na mesma pasta aonde será executado o .py:
+
 https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5ac26371_chicago-bikeshare-pt/chicago-bikeshare-pt.zip
 
 ![divvy](http://www.mychicagoathlete.com/wp-content/uploads/DIVVYweb.jpg)
